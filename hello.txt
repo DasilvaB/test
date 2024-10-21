@@ -2,3 +2,4 @@ Hello, world
 Another feature
 Another feature - 3
 Another feature - 5
+Another feature - 6
